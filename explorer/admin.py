@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import County, UserCounty
+from .models import County, VisitedCounty
 
 admin.site.register(County)
-admin.site.register(UserCounty)
+admin.site.register(VisitedCounty)
