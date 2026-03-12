@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {"name": "Kenya"},
+"geometry": {
+"type": "Polygon",
+"coordinates": [[[33.9,-4.7],[41.9,-4.7],[41.9,5.0],[33.9,5.0],[33.9,-4.7]]]
+}
+}
+]
+}
